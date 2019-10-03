@@ -11,4 +11,7 @@ Enfin la ligne "perform" affiche sur mon écran "Hello + prénom de l'utilisateu
 Pour le 01_pyramids.rb
 
 
-Pour le 02_password
+Pour le 02_password, nous avons défini différentes méthodes qui permettent dans un premier temps de récupérer la donnée password, puis de redemander le password en question tout en mettant une condition qui impose que le password soit exactement le même que la donnée dans la première méthode.
+Une fois que l'utilisateur rentre exactement le même mot de passe, il arrive sur sa page secrète !
+
+Pour le 03_stairway, le programme exécute automatiquement 100 parties puis nous donne la moyenne du nombre de lancées nécessaires pour gagner une partie.
