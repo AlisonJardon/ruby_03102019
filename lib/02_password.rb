@@ -24,7 +24,6 @@ def welcome_screen
 	puts "Secret n°2 : "
 	sleep 0.8
 	puts "Secret n°3 : "
-	sleep 0.8
 end
 
 def perform
