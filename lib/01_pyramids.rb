@@ -13,7 +13,7 @@ end
 def full_pyramid(nombre)
 	puts "Voici la pyramide :"
   nombre.times do |n|
-    print '-' * (nombre - n)
+    print ' ' * (nombre - n)
     puts '#' * (2 * n + 1)
 sleep 0.5
 end
