@@ -9,3 +9,6 @@ Pour le 00_hello.rb, nous avons donc défini 3 méthodes :
 Enfin la ligne "perform" affiche sur mon écran "Hello + prénom de l'utilisateur".
 
 Pour le 01_pyramids.rb
+
+
+Pour le 02_password
