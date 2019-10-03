@@ -19,11 +19,11 @@ end
 def welcome_screen
 	puts "Bienvenue sur ton espace secret ! "
 	sleep 0.8
-	puts "Secret n°1 : "
+	puts "Secret n°1 : La tomate est un fruit et non un légume ! "
 	sleep 0.8
-	puts "Secret n°2 : "
+	puts "Secret n°2 : Georges Sand était une femme."
 	sleep 0.8
-	puts "Secret n°3 : "
+	puts "Secret n°3 : Les deux premiers secrets n'en étaient pas vraiment ! "
 end
 
 def perform
